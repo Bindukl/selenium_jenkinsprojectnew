@@ -8,7 +8,7 @@ public class NewDemoProjectTest {
 	@Test
 	public void execute()
 	{
-		Reporter.log("Jenkins class executed successfully",true);
+		Reporter.log("Jenkins class executed  second time successfully",true);
 	}
 
 }
