@@ -9,6 +9,7 @@ public class SecondProjectTest {
 	public void build()
 	{
 		Reporter.log("Execute the bulid successfully",true);
+		Reporter.log("Execute the bulid successfully second time",true);
 	}
 
 }
