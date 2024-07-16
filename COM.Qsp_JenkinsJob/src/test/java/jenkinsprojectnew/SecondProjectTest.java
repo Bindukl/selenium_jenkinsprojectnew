@@ -8,7 +8,7 @@ public class SecondProjectTest {
 	@Test
 	public void build()
 	{
-		Reporter.log("Execute the bulid successfully");
+		Reporter.log("Execute the bulid successfully",true);
 	}
 
 }

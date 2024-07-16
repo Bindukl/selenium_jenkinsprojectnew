@@ -8,7 +8,7 @@ public class ThirdProjectTest {
 	@Test
 	public void buildThree()
 	{
-		Reporter.log("Our third Build successfully lunched");
+		Reporter.log("Our third Build successfully lunched",true);
 	}
 
 }
