@@ -8,8 +8,8 @@ public class JenkinsParameterTest {
 	@Test
 	public void recieveParameter()
 	{
-		System.getProperty("browser");
-		Reporter.log("browser Name",true);
+		String browserName = System.getProperty("browser");
+		Reporter.log(browserName,true);
 	}
 
 }
