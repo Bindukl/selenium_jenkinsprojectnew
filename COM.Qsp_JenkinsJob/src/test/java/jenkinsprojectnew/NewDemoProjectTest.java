@@ -9,6 +9,7 @@ public class NewDemoProjectTest {
 	public void execute()
 	{
 		Reporter.log("Jenkins class executed  second time successfully",true);
+		Reporter.log("Jenkins class executed  fourth time successfully",true);
 	}
 
 }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Jenkins class executed  second time successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-26T11:20:04 IST" name="Default suite" finished-at="2024-07-26T11:20:04 IST" duration-ms="247">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T11:20:04 IST" name="Default test" finished-at="2024-07-26T11:20:04 IST" duration-ms="247">
+      <class name="jenkinsprojectnew.NewDemoProjectTest">
+        <test-method signature="execute()[pri:0, instance:jenkinsprojectnew.NewDemoProjectTest@38d8f54a]" started-at="2024-07-26T11:20:04 IST" name="execute" finished-at="2024-07-26T11:20:04 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Jenkins class executed  second time successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- jenkinsprojectnew.NewDemoProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
